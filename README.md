@@ -254,10 +254,10 @@ Comprehensive performance breakdown for all 27 AI models evaluated. Scores inclu
 
 ### Best Understanding of csfa.sh Architecture
 
-- **1a. Claude Code Haiku 4.5** - 13-component breakdown with precise line references + feature timeline (v1.2.0→v1.3.1)
-- **1b. Claude Code Sonnet 4.5** - Detailed subsystem breakdown with 6 architectural decisions + extensive code examples
+- **1. Claude Code Haiku 4.5** - 13-component breakdown with precise line references + feature timeline (v1.2.0→v1.3.1)
+- **1. Claude Code Sonnet 4.5** - Detailed subsystem breakdown with 6 architectural decisions + extensive code examples
 *(Tie: Complementary strengths - Haiku excels at component organization, Sonnet at technical rationale)*
-- 3. Claude Code Opus 4.1 - Strong design pattern focus
+- **3. Claude Code Opus 4.1** - 3. Claude Code Opus 4.1 - Strong design pattern focus
 
 ### Best Understanding of CI/CD Workflow
 
